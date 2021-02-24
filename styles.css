@@ -1,0 +1,18 @@
+html, body {
+	height: 100%;
+	background-color: LightBlue;
+}
+.app {
+	height: 100%;
+	display: flex;
+}
+.both {
+	width: 50%;
+	height: 100%;
+	overflow: scroll;
+	font-size: 20px;
+	padding: 15px;
+	margin: 10px;
+	border-color: black;	
+	background-color: white;
+}
